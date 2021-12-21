@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+<p align="center">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://www.designmantic.com/images/images3/HTML5LOGOMaker-Icon-Sample.gif" width="100"><img src="https://media.giphy.com/media/PiWfijeEeJEI0uB7j6/giphy.gif" width="100"><img src="https://ih1.redbubble.net/image.416407024.0438/flat,750x1000,075,f.u1.jpg" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 
 <h1 align="center"> 📊 Stats: </h1>
 
